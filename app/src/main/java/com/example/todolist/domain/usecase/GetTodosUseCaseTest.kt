@@ -18,7 +18,6 @@ class GetTodosUseCaseTest {
         }
 
         override suspend fun toggleTodo(id: Int) {
-            // do nothing for test
         }
     }
 
